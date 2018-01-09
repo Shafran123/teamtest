@@ -1,0 +1,156 @@
+body{
+    background-color: #D8064F;
+    }
+
+.logo{
+    padding-left:85%;
+    padding-top:1%;
+}
+
+.title .head{
+    padding-top: 2%;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.title .sub{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    font-size: 24px;
+}
+
+.signin{
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+input[type=text], select {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    width: 40%;
+    height: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=password], select {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    width: 40%;
+    height: 30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+input[type=submit] {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    width: 20%;
+    background-color: #FCCB04;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #F4A000;
+}
+
+.forget{
+    display: inline-block;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.signup{
+   padding-top: 1%;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.vl {
+
+    border-left: 2px solid #777877;
+    height: 230px;
+    margin-top: 280px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.buttonfb{
+    width: 350px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    background-color: #FCCB04;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttonfb:hover{
+    background-color: #F4A000;
+}
+
+.buttongit{
+    width: 350px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    background-color: #FCCB04;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.buttongit:hover{
+    background-color: #F4A000;
+}
+
+
+.fbsign{
+    
+    margin-top: -16%;
+    padding-left: 52%;
+}
+
+.fbicon{
+ 
+    margin-top: -4%;
+    padding-left: 53%
+}
+
+.gitsign{
+    padding-top: 25px;
+
+    padding-left: 52%;
+}
